@@ -1,5 +1,6 @@
 // โมดูล B — ค้นหาประกาศ  ·  branch: feature/search
 // หน้าเว็บของฟีเจอร์ — ดูเครื่องมือที่ใช้ได้ใน ctx ที่หัวไฟล์ public/app.js
+// test edit
 
 export function init(ctx) {
   const input = document.createElement('input');
