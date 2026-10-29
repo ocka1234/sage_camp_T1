@@ -14,7 +14,8 @@
 //   ctx.panel                พื้นที่ใต้ฟอร์ม (ใส่กล่องสรุป)
 //   ctx.header               หัวเว็บ (ใส่ปุ่มสลับธีม)
 //   ctx.notify(message)      แสดงข้อความแจ้งเตือนสั้น ๆ
-import { FEATURES } from './features/index.js';
+import { FEATURES } from './features/index.js'; 
+
 
 const list = document.getElementById('list');
 const form = document.getElementById('form');
